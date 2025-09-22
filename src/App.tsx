@@ -36,7 +36,7 @@ function App() {
           <div className="max-w-4xl mx-auto mb-8">
             <div className="flex justify-center mb-6">
               <img
-                src="/logo.webp"
+                src="/logo1.webp"
                 alt="Logo"
                 className="w-16 md:w-16 lg:w-16"
                 style={{
