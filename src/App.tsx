@@ -8,7 +8,7 @@ import { Sparkles, MapPin } from 'lucide-react';
 function App() {
   // You can customize this URL to your redirect link
   const REDIRECT_URL =
-    'https://post.treazlo.com/go/575e29a9-8352-49d6-9418-ddda953373e5';
+    'https://post.treazlo.com/click/1?ns=c%3D575e29a9-8352-49d6-9418-ddda953373e5..l%3D2..a%3D0..b%3D0';
 
   return (
     <div className="min-h-screen relative overflow-hidden">
