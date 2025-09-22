@@ -47,9 +47,8 @@ function App() {
 
             <h1
               className="
-                text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6
+                text-6xl md:text-6xl lg:text-7xl font-bold text-white mb-6
                 bg-gradient-to-r from-white via-pink-200 to-white bg-clip-text text-transparent
-                animate-pulse
               "
               style={{
                 textShadow: '0 0 30px rgba(255, 255, 255, 0.5)',
