@@ -47,7 +47,7 @@ function App() {
 
             <h1
               className="
-                text-6xl md:text-6xl lg:text-7xl font-bold text-white mb-6
+                text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6
                 bg-gradient-to-r from-white via-pink-200 to-white bg-clip-text text-transparent
               "
               style={{
