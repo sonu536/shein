@@ -12,8 +12,8 @@ const StepsSection: React.FC = () => {
     {
       number: 2,
       icon: Smartphone,
-      title: "Complete Quick Survey",
-      description: "Answer a few simple questions about your preferences"
+      title: "Complete few deals",
+      description: "Complete 3-5 deals"
     },
     {
       number: 3,
